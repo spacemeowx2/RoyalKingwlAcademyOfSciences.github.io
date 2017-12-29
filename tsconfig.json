@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "baseUrl": "src",
+        "outDir": "js",
+        "strict": true,
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "module": "amd",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true
+    },
+    "include": [
+        "./src/*.ts",
+        "./typings/*.d.ts"
+    ]
+}

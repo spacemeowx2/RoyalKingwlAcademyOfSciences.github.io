@@ -1,0 +1,24 @@
+{
+  "name": "royalkingwlacademyofsciences.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacemeowx2/RoyalKingwlAcademyOfSciences.github.io.git"
+  },
+  "author": "spacemeowx2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacemeowx2/RoyalKingwlAcademyOfSciences.github.io/issues"
+  },
+  "homepage": "https://github.com/spacemeowx2/RoyalKingwlAcademyOfSciences.github.io#readme",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "vue": "^2.5.13",
+    "vue-class-component": "^6.1.2"
+  }
+}
